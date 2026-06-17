@@ -5,18 +5,24 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+Production+Grade+AI+Systems;Multi-Agent+Architecture+Developer;LLM+Engineering+%7C+Google+ADK+%7C+Ray;Backend+AI+Infrastructure+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+Production+Grade+AI+Systems;Multi-Agent+Architecture+Developer;LLM+Engineering+%7C+Google+ADK+%7C+Ray;Backend+AI+Infrastructure+Builder" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Pratyushr949&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-AI_Systems-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_To-Collaboration-orange?style=for-the-badge"/>
+</p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=90&section=header"/>
 
-# 🚀 About Me
+# 🚀 About Me <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30">
 
 🎓 B.Tech CSE (AI/ML Specialization) Student  
 
@@ -30,7 +36,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-# 🔭 Currently Working On
+# 🔭 Currently Working On <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="30">
 
 ## Enterprise Intelligent Document Processing Pipeline
 
@@ -52,7 +58,7 @@ Building a large scale system capable of:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-# 👯 Open To Collaborate On
+# 👯 Open To Collaborate On <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28">
 
 🔹 Agentic AI Systems  
 🔹 Multi-Agent Architectures  
@@ -65,7 +71,7 @@ Building a large scale system capable of:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-# 🌱 Currently Learning
+# 🌱 Currently Learning <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="28">
 
 📌 Advanced Agentic AI Systems  
 
@@ -85,7 +91,7 @@ Building a large scale system capable of:
 
 # 💻 Featured Projects
 
-## 📄 Intelligent Document Processing Pipeline
+## 📄 Intelligent Document Processing Pipeline <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
 
 - OCR  
 - Google ADK  
@@ -96,7 +102,9 @@ Building a large scale system capable of:
 - Validation Pipeline  
 - Report Generation  
 
-### 🦅 Bird Intrusion Detection System
+---
+
+## 🦅 Bird Intrusion Detection System <img src="https://img.shields.io/badge/Computer_Vision-Research-blue?style=flat-square">
 
 - YOLOv8  
 - RT-DETR  
@@ -104,7 +112,9 @@ Building a large scale system capable of:
 - Real-Time Detection  
 - Weather Data Augmentation  
 
-### 🌦 Weather Prediction ML System
+---
+
+## 🌦 Weather Prediction ML System <img src="https://img.shields.io/badge/Machine_Learning-Deployed-orange?style=flat-square">
 
 - Random Forest  
 - Feature Engineering  
@@ -116,7 +126,7 @@ Building a large scale system capable of:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-# ⚙️ Tech Stack
+# ⚙️ Tech Stack <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
 
 ### Programming Languages
 
@@ -162,7 +172,7 @@ Building a large scale system capable of:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="28">
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pratyushr949&show_icons=true&theme=tokyonight" />
@@ -191,7 +201,15 @@ Building a large scale system capable of:
 
 ---
 
-# 📫 Connect With Me
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 📫 Connect With Me <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="28">
 
 📧 Email → **pratyushr949@gmail.com**  
 
@@ -211,6 +229,10 @@ Become an **AI Engineer building scalable production-grade intelligent systems u
 
 ### ⚡ Building • Learning • Shipping • Improving
 
+</p>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
 ---
