@@ -1,86 +1,90 @@
 <h1 align="center">Hi 👋, I'm Pratyush Raj</h1>
 
 <h3 align="center">
-Building Scalable AI Systems | Agentic AI | Multi-Agent Architectures | LLM Engineering | Computer Vision
+🚀 AI Engineer in Progress | Agentic AI | Multi-Agent Systems | LLM Engineering | Computer Vision
 </h3>
 
----
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Pratyushr949&label=Profile%20views&color=0e75b6&style=flat" alt="Pratyushr949" /> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Production+Grade+AI+Systems;Multi-Agent+AI+Architecture+Developer;LLM+Engineering+%7C+Google+ADK+%7C+Ray;Computer+Vision+%7C+Backend+AI+Infrastructure"
+      alt="Typing SVG" 
+    />
+  </a>
 </p>
 
-## 🚀 About Me
+---
 
-I am a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Pratyushr949&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
-I am passionate about building **production-grade AI systems** and solving real-world engineering problems through scalable architectures.
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U1YTF2NGhkbjM4NXI3bGQ2ajA5bTZ3OG40aThxa2Q2bThvYjV5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
-My primary interests include:
+# 🚀 About Me
 
-- Multi-Agent AI Systems  
-- Large Language Models (LLMs)  
-- Intelligent Document Processing (IDP)  
-- Agentic AI Workflows  
-- Computer Vision  
-- Distributed Systems  
-- Backend AI Infrastructure  
-- AI Automation Pipelines  
+🎓 B.Tech CSE (AI/ML Specialization) Student  
+
+💡 Passionate about building **production-grade AI systems**  
+
+⚡ Strong interest in solving real-world problems using scalable AI architectures  
+
+🔥 Focused on backend AI engineering and intelligent automation systems  
 
 ---
 
-## 🔭 Current Project
+# 🔭 Currently Working On
 
-Currently building an **Enterprise Grade Intelligent Document Processing (IDP) Pipeline** using Multi-Agent AI Architecture.
+### Enterprise Grade Intelligent Document Processing (IDP) Pipeline
 
-This system includes:
+Building a large scale AI pipeline capable of:
 
 ✅ OCR Extraction Pipeline  
 ✅ Parallel AI Agents Processing  
-✅ Rule-Based Document Classification  
-✅ LLM-Based Classification  
+✅ Rule Based Document Classification  
+✅ LLM Based Classification  
 ✅ Entity Extraction Engine  
 ✅ PII Detection Agent  
 ✅ Validation Agent  
 ✅ Confidence Scoring System  
 ✅ JSON + Excel Report Generation  
 ✅ Multi-Agent Orchestration using Google ADK  
-✅ Distributed Parallel Execution using Ray  
+✅ Distributed Execution using Ray  
 
 ---
 
-## 👯 Open To Collaborate On
+# 👯 Open To Collaborate On
 
 - Agentic AI Systems  
 - Multi-Agent Architectures  
 - LLM Engineering  
 - AI Infrastructure Projects  
-- Real World AI Automation Systems  
 - Backend AI Development  
+- Real World AI Automation Systems  
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced Agentic AI Systems  
-- Distributed AI Infrastructure  
-- Production Grade Backend Engineering  
+- Distributed Computing with Ray  
 - LLM Fine Tuning  
 - Retrieval Augmented Generation (RAG)  
-- AI System Design  
-- Scalable System Architecture  
+- Production Grade Backend Engineering  
+- AI System Design Architecture  
+- Scalable AI Infrastructure  
 
 ---
 
-## 💻 Featured Projects
+# 💻 Featured Projects
 
-### 1. Intelligent Document Processing Pipeline
+## 📄 Intelligent Document Processing Pipeline
 
-Enterprise level document understanding system using:
+Enterprise document understanding system using:
 
 - OCR  
-- Parallel AI Agents  
 - Google ADK  
+- Parallel Agents  
 - Rule Engine  
 - LLM Classification  
 - Entity Extraction  
@@ -89,21 +93,21 @@ Enterprise level document understanding system using:
 
 ---
 
-### 2. Bird Intrusion Detection System
+## 🦅 Bird Intrusion Detection System
 
 Airport bird detection and tracking system using:
 
 - YOLOv8  
 - RT-DETR  
 - Computer Vision  
+- Real-Time Detection  
 - Weather Data Augmentation  
-- Real-Time Object Detection  
 
 ---
 
-### 3. Weather Prediction ML System
+## 🌦 Weather Prediction ML System
 
-Rainfall prediction system built using:
+Rainfall prediction system using:
 
 - Random Forest  
 - Feature Engineering  
@@ -113,77 +117,109 @@ Rainfall prediction system built using:
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
-### Programming Languages
+## Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
+</p>
+
+## AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+## Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+## Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+## DevOps / Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+## Currently Working With
+
+<p align="left">
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Multi_Agent_AI-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM_Engineering-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ray_Distributed-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/OCR_Pipeline-success?style=for-the-badge">
+</p>
 
 ---
 
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
----
-
-### Backend & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-### AI Engineering
-
-- Google ADK  
-- Multi-Agent Systems  
-- Prompt Engineering  
-- NLP  
-- LLM Engineering  
-- Ray Distributed Computing  
-- OCR Pipelines  
-- AI Workflow Automation  
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pratyushr949&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushr949&layout=compact&theme=tokyonight" width="48%">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratyushr949&show_icons=true&theme=default" />
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Pratyushr949&theme=tokyonight" width="70%">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushr949&layout=compact" />
+---
 
-<img src="https://streak-stats.demolab.com/?user=Pratyushr949" />
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pratyushr949&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyushr949&theme=tokyo-night"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+📧 Email → **pratyushr949@gmail.com**
+
+💻 GitHub → **https://github.com/Pratyushr949**
+
+🔗 LinkedIn → **Add Your LinkedIn Here**
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Career Goal
 
-📧 Email: **pratyushr949@gmail.com**
-
-💻 GitHub: **https://github.com/Pratyushr949**
-
-( Add LinkedIn Here )
+To become an **AI Engineer building production-grade intelligent systems using Agentic AI, LLMs, distributed computing and scalable backend architectures.**
 
 ---
 
-## 🎯 Career Goal
+<p align="center">
 
-My goal is to become an **AI Engineer focused on building scalable, production-grade intelligent systems that solve complex real-world problems using Agentic AI, LLMs and distributed architectures.**
+### ⭐ Building. Learning. Shipping. Improving.
+
+</p>
 
 ---
 
-⭐ Always building. Always learning. Always improving.
+<!-- Snake Animation -->
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
