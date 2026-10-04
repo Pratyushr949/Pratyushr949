@@ -207,7 +207,7 @@ Building a large scale system capable of:
 
 💻 GitHub → **https://github.com/Pratyushr949**  
 
-🔗 LinkedIn → **Add Your LinkedIn Here**  
+🔗 LinkedIn → **www.linkedin.com/in/pratyushraj31**  
 
 ---
 
