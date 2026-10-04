@@ -114,15 +114,7 @@ Building a large scale system capable of:
 
 ---
 
-## 🌦 Weather Prediction ML System <img src="https://img.shields.io/badge/Machine_Learning-Deployed-orange?style=flat-square">
 
-- Random Forest  
-- Feature Engineering  
-- Streamlit Deployment  
-- Scikit Learn  
-- Data Visualization  
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
